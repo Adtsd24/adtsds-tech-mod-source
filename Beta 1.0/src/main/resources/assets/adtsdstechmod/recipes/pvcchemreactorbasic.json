@@ -1,0 +1,26 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:basicchemicalreactor"
+    },
+    "1": {
+      "item": "adtsdstechmod:chlorinecell"
+    },
+    "2": {
+      "item": "adtsdstechmod:ethylenecell"
+    },
+    "3": {
+      "item": "adtsdstechmod:oxygencell"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:barpvc",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adtsdstechmod:blocks/tetrahedrite_ore",
+    "particle": "adtsdstechmod:blocks/tetrahedrite_ore"
+  }
+}

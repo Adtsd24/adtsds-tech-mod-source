@@ -1,0 +1,47 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "2": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "3": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "7": {
+      "item": "minecraft:iron_bars"
+    },
+    "8": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:cokeoven",
+    "count": 1
+  }
+}

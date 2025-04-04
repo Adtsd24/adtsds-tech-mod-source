@@ -1,0 +1,32 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "adtsdstechmod:toolfile"
+    },
+    "4": {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:toolsaw",
+    "count": 1
+  }
+}

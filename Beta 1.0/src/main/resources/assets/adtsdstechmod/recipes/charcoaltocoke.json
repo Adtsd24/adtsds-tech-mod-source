@@ -1,0 +1,17 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:cokeoven"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:coalcoke",
+    "count": 1
+  }
+}

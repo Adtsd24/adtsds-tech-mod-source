@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "tool_hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 64,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A hammer. Looks like it is powerful enough to inneficently make plates out of ingots."
+    ],
+    "hasGlow": false
+  }
+}

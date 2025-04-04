@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:circuitboardbasic"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "4": {
+      "item": "adtsdstechmod:steelmachinecasing"
+    },
+    "5": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "6": {
+      "item": "adtsdstechmod:steelfluidcontainer"
+    },
+    "7": {
+      "item": "adtsdstechmod:hydrogengenerator"
+    },
+    "8": {
+      "item": "adtsdstechmod:steelfluidcontainer"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:basicchemicalreactor",
+    "count": 1
+  }
+}

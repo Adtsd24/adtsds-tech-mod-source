@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "advanced_ore_processor",
+    "customModelName": "Normal",
+    "name": "Ore Processor (Advanced)",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "An advanced (MV) ore processor. Input hydrogen and nitric acid cells with a water bucket and some ore for ore processing, other recipes without all of this combined are regular macerator recipes. It can also create silk touch books... for some... reason."
+    ],
+    "hasGlow": false
+  }
+}

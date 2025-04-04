@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:fluxdust"
+    },
+    {
+      "item": "adtsdstechmod:coalcoke"
+    },
+    {
+      "item": "adtsdstechmod:wroughtironingot"
+    },
+    {
+      "item": "adtsdstechmod:coalcoke"
+    },
+    {
+      "item": "adtsdstechmod:blastfurnace"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:unforgedsteelingot",
+    "count": 1
+  }
+}

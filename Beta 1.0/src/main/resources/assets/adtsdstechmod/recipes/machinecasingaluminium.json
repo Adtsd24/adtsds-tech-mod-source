@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:screwaluminium"
+    },
+    "1": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "2": {
+      "item": "adtsdstechmod:screwaluminium"
+    },
+    "3": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "4": {
+      "item": "adtsdstechmod:toolwrench"
+    },
+    "5": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "6": {
+      "item": "adtsdstechmod:screwaluminium"
+    },
+    "7": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "8": {
+      "item": "adtsdstechmod:screwaluminium"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:aluminiummachinecasing",
+    "count": 1
+  }
+}

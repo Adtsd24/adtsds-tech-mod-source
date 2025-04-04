@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ingottungstensteel1_shovel",
+    "customModelName": "Normal",
+    "name": "Tungstensteel Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 70,
+    "damageVsEntity": 6.0,
+    "usageCount": 5680,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:IngotTungstensteel"
+      }
+    ]
+  }
+}

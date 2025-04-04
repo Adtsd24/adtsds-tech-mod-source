@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adtsdstechmod:blocks/tin_ore",
+    "particle": "adtsdstechmod:blocks/tin_ore"
+  }
+}

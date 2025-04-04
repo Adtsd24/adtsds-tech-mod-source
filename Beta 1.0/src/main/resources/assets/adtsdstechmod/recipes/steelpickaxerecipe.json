@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:steelingot"
+    },
+    "1": {
+      "item": "adtsdstechmod:steelingot"
+    },
+    "2": {
+      "item": "adtsdstechmod:steelingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:steelpickaxe",
+    "count": 1
+  }
+}

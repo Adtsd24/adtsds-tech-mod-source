@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lpsteamalloysmelter"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    },
+    {
+      "item": "adtsdstechmod:tiningot"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:bronzeingot",
+    "count": 6
+  }
+}

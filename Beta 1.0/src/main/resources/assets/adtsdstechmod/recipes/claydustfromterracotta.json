@@ -1,0 +1,17 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:basicmacerator"
+    },
+    {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustclay",
+    "count": 4
+  }
+}

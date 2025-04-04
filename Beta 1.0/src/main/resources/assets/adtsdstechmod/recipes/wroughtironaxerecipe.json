@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironingot"
+    },
+    "1": {
+      "item": "adtsdstechmod:wroughtironingot"
+    },
+    "2": {
+      "item": "adtsdstechmod:wroughtironingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:wroughtironaxe",
+    "count": 1
+  }
+}

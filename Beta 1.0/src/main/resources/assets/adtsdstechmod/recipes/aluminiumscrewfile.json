@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolfile"
+    },
+    {
+      "item": "adtsdstechmod:boltaluminium"
+    },
+    {
+      "item": "adtsdstechmod:boltaluminium"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:screwaluminium",
+    "count": 1
+  }
+}

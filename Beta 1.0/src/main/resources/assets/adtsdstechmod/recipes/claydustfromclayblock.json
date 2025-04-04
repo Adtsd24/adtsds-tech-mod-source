@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:basicmacerator"
+    },
+    "1": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:dustclay",
+    "count": 4
+  }
+}

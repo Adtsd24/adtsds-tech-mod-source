@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "cell_oxygen",
+    "customModelName": "Normal",
+    "name": "Oxygen Cell",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A cell full of Oxygen Gas. Fun fact, Oxygen is a very powerful Oxidizer, so you will see this in recipes as well, not only Hydrogen Cells."
+    ],
+    "hasGlow": false
+  }
+}

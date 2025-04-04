@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:basicchemicalreactor"
+    },
+    {
+      "item": "adtsdstechmod:ethylenecell"
+    },
+    {
+      "item": "adtsdstechmod:ethylenecell"
+    },
+    {
+      "item": "adtsdstechmod:oxygencell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:barpe",
+    "count": 3
+  }
+}

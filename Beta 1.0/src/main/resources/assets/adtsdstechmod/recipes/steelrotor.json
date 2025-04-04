@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "4": {
+      "item": "adtsdstechmod:rodsteel"
+    },
+    "5": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "8": {
+      "item": "adtsdstechmod:platesteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:rotorsteel",
+    "count": 1
+  }
+}

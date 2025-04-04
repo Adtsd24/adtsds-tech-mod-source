@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:wirecutter"
+    },
+    {
+      "item": "adtsdstechmod:ingotelectrum"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:electrumcoil",
+    "count": 4
+  }
+}

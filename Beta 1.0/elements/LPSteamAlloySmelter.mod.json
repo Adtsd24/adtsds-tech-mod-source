@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "steam_alloy_smelter",
+    "customModelName": "Normal",
+    "name": "Low Pressure Steam Alloy Smelter",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A low-pressure steam alloy smelter that has more efficent ratios for alloys than the manual mortar method, and unlocks more alloys."
+    ],
+    "hasGlow": false
+  }
+}

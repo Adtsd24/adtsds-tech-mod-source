@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:PipeTungsten"
+      },
+      {
+        "value": "CUSTOM:AluminiumMachineCasing"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardAdvanced"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoalLiquifactor"
+    },
+    "name": "liquifactorcoal",
+    "namespace": "mod"
+  }
+}

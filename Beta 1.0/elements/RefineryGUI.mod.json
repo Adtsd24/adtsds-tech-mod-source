@@ -1,0 +1,165 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Refinery",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Refinery",
+          "x": 372,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:HotOilCell"
+          },
+          "id": 5,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #5",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:HydrogenGenerator"
+          },
+          "id": 6,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #6",
+          "x": 264,
+          "y": 168
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Hot Oil",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Hot Oil",
+          "x": 264,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Hydrogen Generator",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Hydrogen Generator",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #1",
+          "x": 480,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #2",
+          "x": 480,
+          "y": 168
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #3",
+          "x": 552,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "onSlotChanged": {
+            "name": "RefineryOil"
+          },
+          "onTakenFromSlot": {
+            "name": "RefineryOil"
+          },
+          "onStackTransfer": {
+            "name": "RefineryOil"
+          },
+          "name": "Slot #4",
+          "x": 552,
+          "y": 168
+        }
+      }
+    ]
+  }
+}

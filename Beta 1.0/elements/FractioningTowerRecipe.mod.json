@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#0"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:TitaniumMachineCasing"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardBasic"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FractioningTower"
+    },
+    "name": "fractioningtowerrecipe",
+    "namespace": "mod"
+  }
+}

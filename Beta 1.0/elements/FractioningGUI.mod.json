@@ -1,0 +1,165 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 400,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Fractioning Tower",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Fractioning Tower",
+          "x": 336,
+          "y": 60
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #1",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Input Liquid",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Input Liquid",
+          "x": 264,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:HydrogenGenerator"
+          },
+          "id": 2,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #2",
+          "x": 264,
+          "y": 168
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Hydrogen Generator",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Hydrogen Generator",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #3",
+          "x": 480,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #4",
+          "x": 480,
+          "y": 168
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #5",
+          "x": 552,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "onSlotChanged": {
+            "name": "FractioningRecipes"
+          },
+          "onTakenFromSlot": {
+            "name": "FractioningRecipes"
+          },
+          "onStackTransfer": {
+            "name": "FractioningRecipes"
+          },
+          "name": "Slot #6",
+          "x": 552,
+          "y": 168
+        }
+      }
+    ]
+  }
+}

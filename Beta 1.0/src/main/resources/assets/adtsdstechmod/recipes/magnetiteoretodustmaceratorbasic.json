@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:basicmacerator"
+    },
+    {
+      "item": "adtsdstechmod:magnetiteore"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustiron",
+    "count": 10
+  }
+}

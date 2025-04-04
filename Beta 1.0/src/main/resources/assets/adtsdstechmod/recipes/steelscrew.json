@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolfile"
+    },
+    {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    {
+      "item": "adtsdstechmod:boltsteel"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:screwsteel",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "3": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "4": {
+      "item": "adtsdstechmod:dustcarbon"
+    },
+    "5": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "6": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "7": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "8": {
+      "item": "adtsdstechmod:goldcoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:resistor100ohm",
+    "count": 2
+  }
+}

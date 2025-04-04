@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "adtsdstechmod:oilrefinery"
+    },
+    "facing=north": {
+      "model": "adtsdstechmod:oilrefinery"
+    },
+    "facing=east": {
+      "model": "adtsdstechmod:oilrefinery",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "adtsdstechmod:oilrefinery",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "adtsdstechmod:oilrefinery",
+      "y": 270
+    }
+  }
+}

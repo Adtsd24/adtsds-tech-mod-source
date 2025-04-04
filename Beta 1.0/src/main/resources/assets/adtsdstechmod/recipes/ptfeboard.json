@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:insulatormold"
+    },
+    {
+      "item": "adtsdstechmod:barptfe"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:itemboardptfe",
+    "count": 2
+  }
+}

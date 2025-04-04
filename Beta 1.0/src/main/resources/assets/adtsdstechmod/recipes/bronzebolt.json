@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:rodbronze"
+    },
+    {
+      "item": "adtsdstechmod:toolsaw"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:boltbronze",
+    "count": 2
+  }
+}

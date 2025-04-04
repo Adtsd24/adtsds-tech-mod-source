@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:cookingpan"
+    },
+    {
+      "item": "adtsdstechmod:scrambledegg"
+    },
+    {
+      "item": "adtsdstechmod:saltdust"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:cookedegg",
+    "count": 1
+  }
+}

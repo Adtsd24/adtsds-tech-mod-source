@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:bronzemachinecasing"
+    },
+    "2": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "3": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "4": {
+      "item": "minecraft:furnace"
+    },
+    "5": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "6": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "7": {
+      "item": "adtsdstechmod:lpsteamboiler"
+    },
+    "8": {
+      "item": "adtsdstechmod:wroughtironplate"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:lpsteammetalfurnace",
+    "count": 1
+  }
+}

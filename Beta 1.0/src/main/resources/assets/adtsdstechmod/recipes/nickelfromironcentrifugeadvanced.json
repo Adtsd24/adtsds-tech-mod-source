@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedcentrifuge"
+    },
+    {
+      "item": "adtsdstechmod:dustiron"
+    },
+    {
+      "item": "adtsdstechmod:dustiron"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustnickel",
+    "count": 1
+  }
+}

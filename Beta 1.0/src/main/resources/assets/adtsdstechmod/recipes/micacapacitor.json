@@ -1,0 +1,39 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "1": {
+      "item": "adtsdstechmod:dustmica"
+    },
+    "2": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "3": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "4": {
+      "item": "adtsdstechmod:dustmica"
+    },
+    "5": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "6": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "8": {
+      "item": "adtsdstechmod:goldcoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:capacitor10megafarad",
+    "count": 4
+  }
+}

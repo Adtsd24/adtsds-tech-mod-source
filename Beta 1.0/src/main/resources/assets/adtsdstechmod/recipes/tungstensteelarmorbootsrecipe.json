@@ -1,0 +1,26 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "5": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:tungstensteelarmorboots",
+    "count": 1
+  }
+}

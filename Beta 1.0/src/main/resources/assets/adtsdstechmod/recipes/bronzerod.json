@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:bronzeingot"
+    },
+    {
+      "item": "adtsdstechmod:toolfile"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:rodbronze",
+    "count": 1
+  }
+}

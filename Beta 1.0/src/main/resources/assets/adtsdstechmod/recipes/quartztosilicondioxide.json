@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:dustquartz"
+    },
+    {
+      "item": "adtsdstechmod:dustquartz"
+    },
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustsilicondioxide",
+    "count": 1
+  }
+}

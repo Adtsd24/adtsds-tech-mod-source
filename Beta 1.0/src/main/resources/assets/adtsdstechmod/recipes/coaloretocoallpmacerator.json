@@ -1,0 +1,17 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    },
+    {
+      "item": "minecraft:coal_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "data": 0,
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:blastfurnace"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:ingotaluminium",
+    "count": 1
+  }
+}

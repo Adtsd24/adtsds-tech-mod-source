@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "tool_pipe_bender",
+    "customModelName": "Normal",
+    "name": "Pipe Bender",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "It is a pipe bender."
+    ],
+    "hasGlow": false
+  }
+}

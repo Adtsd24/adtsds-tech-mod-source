@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "adtsdstechmod:emptycell"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "adtsdstechmod:integratedcircuit"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:nitrogencell",
+    "count": 2
+  }
+}

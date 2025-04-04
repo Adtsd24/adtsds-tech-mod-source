@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": "CUSTOM:ItemBoardPTFE"
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CircuitBoardPTFE"
+    },
+    "name": "polytetrafluoroethylenepcb",
+    "namespace": "mod"
+  }
+}

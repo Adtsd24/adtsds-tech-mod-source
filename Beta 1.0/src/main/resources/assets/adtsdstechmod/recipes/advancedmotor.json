@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "2": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "3": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "4": {
+      "item": "adtsdstechmod:capacitor10megafarad"
+    },
+    "5": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "6": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "8": {
+      "item": "adtsdstechmod:goldcoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:motoradvanced",
+    "count": 1
+  }
+}

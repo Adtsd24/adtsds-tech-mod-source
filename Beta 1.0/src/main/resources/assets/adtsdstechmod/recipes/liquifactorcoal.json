@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "1": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "2": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "3": {
+      "item": "adtsdstechmod:pipetungsten"
+    },
+    "4": {
+      "item": "adtsdstechmod:aluminiummachinecasing"
+    },
+    "5": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "7": {
+      "item": "adtsdstechmod:circuitboardadvanced"
+    },
+    "8": {
+      "item": "adtsdstechmod:platealuminium"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:coalliquifactor",
+    "count": 1
+  }
+}

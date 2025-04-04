@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 3.0,
+    "recipeRetstackSize": 7,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:BoraxOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BoraxDust"
+    },
+    "name": "boraxoretoboraxdust",
+    "namespace": "mod"
+  }
+}

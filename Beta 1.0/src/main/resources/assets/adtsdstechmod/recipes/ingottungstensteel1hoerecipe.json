@@ -1,0 +1,27 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:ingottungstensteel1hoe",
+    "count": 1
+  }
+}

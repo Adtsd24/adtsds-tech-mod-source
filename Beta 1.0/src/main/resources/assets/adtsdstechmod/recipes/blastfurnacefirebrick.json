@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "1": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "2": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "3": {
+      "item": "minecraft:brick_block"
+    },
+    "4": {
+      "item": "minecraft:brick_block"
+    },
+    "5": {
+      "item": "minecraft:brick_block"
+    },
+    "6": {
+      "item": "minecraft:brick_block"
+    },
+    "7": {
+      "item": "minecraft:iron_bars"
+    },
+    "8": {
+      "item": "minecraft:brick_block"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:blastfurnace",
+    "count": 1
+  }
+}

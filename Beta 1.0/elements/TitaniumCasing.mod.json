@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScrewTitanium"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:ScrewTitanium"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:ToolWrench"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:ScrewTitanium"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:ScrewTitanium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TitaniumMachineCasing"
+    },
+    "name": "titaniumcasing",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wroughtiron_sword",
+    "customModelName": "Normal",
+    "name": "Wrought Iron Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 1.2,
+    "enchantability": 17,
+    "damageVsEntity": 8.5,
+    "usageCount": 876,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

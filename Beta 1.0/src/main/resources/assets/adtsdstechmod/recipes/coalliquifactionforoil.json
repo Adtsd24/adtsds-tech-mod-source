@@ -1,0 +1,32 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:coalliquifactor"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:oilcell",
+    "count": 3
+  }
+}

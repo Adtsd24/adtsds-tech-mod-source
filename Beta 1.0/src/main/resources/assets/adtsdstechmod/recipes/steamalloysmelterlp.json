@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "1": {
+      "item": "adtsdstechmod:bronzemachinecasing"
+    },
+    "2": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "adtsdstechmod:platecopperdense"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "7": {
+      "item": "adtsdstechmod:lpsteamboiler"
+    },
+    "8": {
+      "item": "adtsdstechmod:platebronze"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:lpsteamalloysmelter",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    {
+      "item": "adtsdstechmod:ingotaluminium"
+    },
+    {
+      "item": "adtsdstechmod:ingotaluminium"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:platealuminium",
+    "count": 1
+  }
+}

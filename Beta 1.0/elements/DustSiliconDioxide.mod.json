@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "dust_silicon_dioxide",
+    "customModelName": "Normal",
+    "name": "Silicon Dioxide Dust",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "SiO2, Silicon Dioxide. Its sand and quartz, aint it? Welp, it is, but who cares, ya only getting the quartz way of getting SiO2.",
+      "(shhh... thats only until advanced machines, then you unlock the mv centrifuge which can turn sand into silicon dioxide)"
+    ],
+    "hasGlow": false
+  }
+}

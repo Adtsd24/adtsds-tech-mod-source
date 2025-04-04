@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:steelboilerhp"
+    },
+    {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    {
+      "item": "adtsdstechmod:toolfile"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:oilboiler",
+    "count": 1
+  }
+}

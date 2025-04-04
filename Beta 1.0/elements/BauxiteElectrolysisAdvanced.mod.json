@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AdvancedElectrolyzer"
+      },
+      {
+        "value": "CUSTOM:DustBauxite"
+      },
+      {
+        "value": "CUSTOM:DustBauxite"
+      },
+      {
+        "value": "CUSTOM:DustBauxite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DustTitanium"
+    },
+    "name": "bauxiteelectrolysisadvanced",
+    "namespace": "mod"
+  }
+}

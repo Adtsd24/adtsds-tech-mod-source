@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_star"
+    },
+    "1": {
+      "item": "adtsdstechmod:siliconmicrochipbasic"
+    },
+    "2": {
+      "item": "adtsdstechmod:boltsilicon"
+    },
+    "3": {
+      "item": "adtsdstechmod:siliconmicrochipbasic"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "adtsdstechmod:siliconmicrochipbasic"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "adtsdstechmod:siliconmicrochipbasic"
+    },
+    "8": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:eastereggsiliconsword",
+    "count": 1
+  }
+}

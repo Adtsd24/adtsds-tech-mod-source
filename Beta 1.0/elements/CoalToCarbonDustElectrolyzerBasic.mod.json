@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ElectrolyzerLV"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DustCarbon"
+    },
+    "name": "coaltocarbondustelectrolyzerbasic",
+    "namespace": "mod"
+  }
+}

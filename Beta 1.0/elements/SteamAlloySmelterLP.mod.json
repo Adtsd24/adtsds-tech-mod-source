@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateBronze"
+      },
+      {
+        "value": "CUSTOM:BronzeMachineCasing"
+      },
+      {
+        "value": "CUSTOM:PlateBronze"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:PlateCopperDense"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:PlateBronze"
+      },
+      {
+        "value": "CUSTOM:LPSteamBoiler"
+      },
+      {
+        "value": "CUSTOM:PlateBronze"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LPSteamAlloySmelter"
+    },
+    "name": "steamalloysmelterlp",
+    "namespace": "mod"
+  }
+}

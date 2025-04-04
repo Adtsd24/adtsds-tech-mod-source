@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:ethanolcell"
+    },
+    {
+      "item": "adtsdstechmod:dustalumina"
+    },
+    {
+      "item": "adtsdstechmod:basicchemicalreactor"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:ethylenecell",
+    "count": 2
+  }
+}

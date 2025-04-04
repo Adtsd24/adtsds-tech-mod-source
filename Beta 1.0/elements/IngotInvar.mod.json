@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "ingot_invar",
+    "customModelName": "Normal",
+    "name": "Invar Ingot",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "This is Invar, an alloy of Iron and Nickel. This alloy can withstand high temperatures thus its perfect for high-temperature smelting devices."
+    ],
+    "hasGlow": false
+  }
+}

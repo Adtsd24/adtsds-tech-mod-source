@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adtsdstechmod:blocks/magnetite_ore",
+    "particle": "adtsdstechmod:blocks/magnetite_ore"
+  }
+}

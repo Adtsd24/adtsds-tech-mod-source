@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:basicmacerator"
+    },
+    {
+      "item": "adtsdstechmod:saltore"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:saltdust",
+    "count": 7
+  }
+}

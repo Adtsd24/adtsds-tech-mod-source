@@ -1,0 +1,28 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:basicchemicalreactor"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    },
+    {
+      "item": "adtsdstechmod:dustaluminium"
+    },
+    {
+      "item": "adtsdstechmod:oxygencell"
+    },
+    {
+      "item": "adtsdstechmod:oxygencell"
+    },
+    {
+      "item": "adtsdstechmod:oxygencell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustalumina",
+    "count": 5
+  }
+}

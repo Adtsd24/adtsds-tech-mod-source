@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedelectrolyzer"
+    },
+    {
+      "item": "adtsdstechmod:dustbauxite"
+    },
+    {
+      "item": "adtsdstechmod:dustbauxite"
+    },
+    {
+      "item": "adtsdstechmod:dustbauxite"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dusttitanium",
+    "count": 2
+  }
+}

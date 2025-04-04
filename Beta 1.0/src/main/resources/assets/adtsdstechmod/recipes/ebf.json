@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "1": {
+      "item": "adtsdstechmod:electrumcoil"
+    },
+    "2": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "3": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "4": {
+      "item": "adtsdstechmod:electrumcoil"
+    },
+    "5": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "6": {
+      "item": "adtsdstechmod:hydrogengenerator"
+    },
+    "7": {
+      "item": "adtsdstechmod:circuitboardadvanced"
+    },
+    "8": {
+      "item": "adtsdstechmod:hydrogengenerator"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:blastfurnaceelectric",
+    "count": 1
+  }
+}

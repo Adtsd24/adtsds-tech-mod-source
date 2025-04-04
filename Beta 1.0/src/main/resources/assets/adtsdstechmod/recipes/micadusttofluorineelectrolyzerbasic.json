@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    },
+    {
+      "item": "adtsdstechmod:dustmica"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:fluorinecell",
+    "count": 1
+  }
+}

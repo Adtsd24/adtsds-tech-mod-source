@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BasicInsulator"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BasicInsulator"
+      },
+      {
+        "value": "CUSTOM:DustCarbon"
+      },
+      {
+        "value": "CUSTOM:BasicInsulator"
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      },
+      {
+        "value": "CUSTOM:BasicInsulator"
+      },
+      {
+        "value": "CUSTOM:GoldCoil"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Resistor100Ohm"
+    },
+    "name": "ohm100resistor",
+    "namespace": "mod"
+  }
+}

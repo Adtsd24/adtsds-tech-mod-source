@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:screwbronze"
+    },
+    "1": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "2": {
+      "item": "adtsdstechmod:screwbronze"
+    },
+    "3": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "4": {
+      "item": "adtsdstechmod:toolwrench"
+    },
+    "5": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "6": {
+      "item": "adtsdstechmod:screwbronze"
+    },
+    "7": {
+      "item": "adtsdstechmod:platebronze"
+    },
+    "8": {
+      "item": "adtsdstechmod:screwbronze"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:bronzemachinecasing",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "tool_wire_cutter",
+    "customModelName": "Normal",
+    "name": "Wire Cutter",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A wire cutter. Useful for many things, like:",
+      "Cutting ingots into wires!",
+      "Extruding empty gas cells!"
+    ],
+    "hasGlow": false
+  }
+}

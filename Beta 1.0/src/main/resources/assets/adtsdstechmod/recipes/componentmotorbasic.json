@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:boltwroughtiron"
+    },
+    "4": {
+      "item": "adtsdstechmod:capacitor1000microfarad"
+    },
+    "5": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "7": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "8": {
+      "item": "adtsdstechmod:coppercoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:motorbasic",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "7": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "8": {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:toolmortar",
+    "count": 1
+  }
+}

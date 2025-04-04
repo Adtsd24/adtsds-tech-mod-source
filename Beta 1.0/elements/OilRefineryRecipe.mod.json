@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:TitaniumMachineCasing"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardAdvanced"
+      },
+      {
+        "value": "CUSTOM:PlateTitanium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OilRefinery"
+    },
+    "name": "oilrefineryrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    {
+      "item": "adtsdstechmod:lightlyforgedsteelingot"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:steelingot",
+    "count": 1
+  }
+}

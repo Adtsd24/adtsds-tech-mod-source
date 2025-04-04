@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedcentrifuge"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "adtsdstechmod:basicmacerator"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustsilver",
+    "count": 1
+  }
+}

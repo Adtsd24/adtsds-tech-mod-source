@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:dustcopper"
+    },
+    {
+      "item": "adtsdstechmod:dustcopper"
+    },
+    {
+      "item": "adtsdstechmod:dustcopper"
+    },
+    {
+      "item": "adtsdstechmod:dusttin"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustbronze",
+    "count": 4
+  }
+}

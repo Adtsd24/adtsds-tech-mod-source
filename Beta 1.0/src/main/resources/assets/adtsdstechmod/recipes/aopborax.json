@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:oreprocessoradvanced"
+    },
+    {
+      "item": "adtsdstechmod:nitricacidcell"
+    },
+    {
+      "item": "adtsdstechmod:hydrogencell"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "adtsdstechmod:boraxore"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:boraxdust",
+    "count": 24
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AOA",
+    "C C"
+  ],
+  "key": {
+    "A": {
+      "item": "adtsdstechmod:platealuminium"
+    },
+    "O": {
+      "item": "adtsdstechmod:aluminiumcoil"
+    },
+    "C": {
+      "item": "adtsdstechmod:coppercoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:capacitor1000microfarad",
+    "count": 4
+  }
+}

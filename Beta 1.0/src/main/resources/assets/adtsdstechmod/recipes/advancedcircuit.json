@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:capacitor10megafarad"
+    },
+    "1": {
+      "item": "adtsdstechmod:itemsilicondiode"
+    },
+    "2": {
+      "item": "adtsdstechmod:resistor100ohm"
+    },
+    "3": {
+      "item": "adtsdstechmod:capacitor10megafarad"
+    },
+    "4": {
+      "item": "adtsdstechmod:siliconmicrochipwiredbasic"
+    },
+    "5": {
+      "item": "adtsdstechmod:itemsilicondiode"
+    },
+    "6": {
+      "item": "adtsdstechmod:siliconmicrochipwiredbasic"
+    },
+    "7": {
+      "item": "adtsdstechmod:circuitboardptfe"
+    },
+    "8": {
+      "item": "adtsdstechmod:capacitor10megafarad"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:circuitboardadvanced",
+    "count": 1
+  }
+}

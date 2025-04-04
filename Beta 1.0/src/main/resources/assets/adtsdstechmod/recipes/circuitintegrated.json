@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "3": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "4": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "5": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "7": {
+      "item": "adtsdstechmod:coppercoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:integratedcircuit",
+    "count": 1
+  }
+}

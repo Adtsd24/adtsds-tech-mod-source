@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:dustclay"
+    },
+    {
+      "item": "adtsdstechmod:dustclay"
+    },
+    {
+      "item": "adtsdstechmod:dustclay"
+    },
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustaluminium",
+    "count": 2
+  }
+}

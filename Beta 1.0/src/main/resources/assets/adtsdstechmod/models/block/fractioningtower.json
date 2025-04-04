@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "adtsdstechmod:blocks/oil_refinery_side_etc",
+    "up": "adtsdstechmod:blocks/oil_refinery_side_etc",
+    "north": "adtsdstechmod:blocks/fractioning_tower_front",
+    "east": "adtsdstechmod:blocks/oil_refinery_left",
+    "south": "adtsdstechmod:blocks/oil_refinery_side_etc",
+    "west": "adtsdstechmod:blocks/oil_refinery_left",
+    "particle": "adtsdstechmod:blocks/oil_refinery_side_etc"
+  }
+}

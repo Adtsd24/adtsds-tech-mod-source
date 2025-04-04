@@ -1,0 +1,27 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "adtsdstechmod:integratedcircuit"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:dustcarbon",
+    "count": 5
+  }
+}

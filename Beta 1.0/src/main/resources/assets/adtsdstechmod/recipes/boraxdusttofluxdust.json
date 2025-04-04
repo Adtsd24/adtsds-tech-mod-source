@@ -1,0 +1,17 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:boraxdust"
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:fluxdust",
+    "count": 12
+  }
+}

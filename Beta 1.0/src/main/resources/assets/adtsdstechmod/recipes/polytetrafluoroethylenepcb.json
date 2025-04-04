@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "3": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "4": {
+      "item": "adtsdstechmod:itemboardptfe"
+    },
+    "5": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "7": {
+      "item": "adtsdstechmod:goldcoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:circuitboardptfe",
+    "count": 1
+  }
+}

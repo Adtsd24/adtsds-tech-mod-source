@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lpsteamalloysmelter"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "adtsdstechmod:dustnickel"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:ingotinvar",
+    "count": 4
+  }
+}

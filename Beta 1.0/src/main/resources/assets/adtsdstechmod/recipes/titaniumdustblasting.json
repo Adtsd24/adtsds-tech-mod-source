@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:blastfurnaceelectric"
+    },
+    {
+      "item": "adtsdstechmod:dusttitanium"
+    },
+    {
+      "item": "adtsdstechmod:nitrogencell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:ingottitanium",
+    "count": 1
+  }
+}

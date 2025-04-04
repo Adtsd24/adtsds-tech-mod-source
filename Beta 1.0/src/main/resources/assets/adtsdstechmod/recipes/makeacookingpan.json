@@ -1,0 +1,33 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "3": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "4": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "5": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "adtsdstechmod:wroughtironplate"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:cookingpan",
+    "count": 1
+  }
+}

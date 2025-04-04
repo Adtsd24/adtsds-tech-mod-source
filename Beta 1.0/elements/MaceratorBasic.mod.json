@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardBasic"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:MotorBasic"
+      },
+      {
+        "value": "CUSTOM:SteelMachineCasing"
+      },
+      {
+        "value": "CUSTOM:MotorBasic"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:HydrogenGenerator"
+      },
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BasicMacerator"
+    },
+    "name": "maceratorbasic",
+    "namespace": "mod"
+  }
+}

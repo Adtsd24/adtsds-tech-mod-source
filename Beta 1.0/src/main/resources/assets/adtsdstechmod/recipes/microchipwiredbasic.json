@@ -1,0 +1,24 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:basicinsulator"
+    },
+    "1": {
+      "item": "adtsdstechmod:siliconmicrochipbasic"
+    },
+    "2": {
+      "item": "adtsdstechmod:goldcoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:siliconmicrochipwiredbasic",
+    "count": 1
+  }
+}

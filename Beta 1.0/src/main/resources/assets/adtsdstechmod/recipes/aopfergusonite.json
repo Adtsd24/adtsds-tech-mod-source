@@ -1,0 +1,41 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:oreprocessoradvanced"
+    },
+    {
+      "item": "adtsdstechmod:nitricacidcell"
+    },
+    {
+      "item": "adtsdstechmod:nitricacidcell"
+    },
+    {
+      "item": "adtsdstechmod:nitricacidcell"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustfergusonite",
+    "count": 6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "component_resistor_100ohm",
+    "customModelName": "Normal",
+    "name": "Resistor (100 Ohm, High-Power)",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "\"But sir, didnt you technically make it worse?\"",
+      "Well, both yes and no. It can handle higher currents, thus while it does have lower resistance, it can handle higher voltage and amperage. Oh and, dont forget the fact that the more resistance the hotter capacitors get!",
+      "Crafting component"
+    ],
+    "hasGlow": false
+  }
+}

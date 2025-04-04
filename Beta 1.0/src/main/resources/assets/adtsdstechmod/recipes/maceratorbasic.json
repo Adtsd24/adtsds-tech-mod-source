@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:circuitboardbasic"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:motorbasic"
+    },
+    "4": {
+      "item": "adtsdstechmod:steelmachinecasing"
+    },
+    "5": {
+      "item": "adtsdstechmod:motorbasic"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "adtsdstechmod:hydrogengenerator"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:basicmacerator",
+    "count": 1
+  }
+}

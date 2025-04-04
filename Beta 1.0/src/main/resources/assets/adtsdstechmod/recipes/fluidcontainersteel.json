@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "8": {
+      "item": "adtsdstechmod:platesteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:steelfluidcontainer",
+    "count": 1
+  }
+}

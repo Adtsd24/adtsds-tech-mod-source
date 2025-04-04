@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:ElectrumCoil"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:HydrogenGenerator"
+      },
+      {
+        "value": "CUSTOM:AluminiumMachineCasing"
+      },
+      {
+        "value": "CUSTOM:HydrogenGenerator"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardAdvanced"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdvancedElectrolyzer"
+    },
+    "name": "electrolyzeradvanced",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lpsteamforgehammer"
+    },
+    {
+      "item": "adtsdstechmod:steelingot"
+    },
+    {
+      "item": "adtsdstechmod:steelingot"
+    },
+    {
+      "item": "adtsdstechmod:steelingot"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:platesteel",
+    "count": 2
+  }
+}

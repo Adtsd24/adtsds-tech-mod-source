@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "2": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "3": {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    "4": {
+      "item": "adtsdstechmod:toolwrench"
+    },
+    "5": {
+      "item": "adtsdstechmod:toolfile"
+    },
+    "6": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "7": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "8": {
+      "item": "adtsdstechmod:wroughtironplate"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:toolpipebender",
+    "count": 1
+  }
+}

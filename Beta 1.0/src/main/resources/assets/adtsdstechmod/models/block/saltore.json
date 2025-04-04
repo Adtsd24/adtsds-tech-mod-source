@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adtsdstechmod:blocks/ore_salt",
+    "particle": "adtsdstechmod:blocks/ore_salt"
+  }
+}

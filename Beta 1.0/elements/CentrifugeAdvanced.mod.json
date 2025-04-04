@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:HydrogenGenerator"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:AluminiumMachineCasing"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardAdvanced"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      },
+      {
+        "value": "CUSTOM:MotorAdvanced"
+      },
+      {
+        "value": "CUSTOM:PlateAluminium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdvancedCentrifuge"
+    },
+    "name": "centrifugeadvanced",
+    "namespace": "mod"
+  }
+}

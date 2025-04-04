@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolsaw"
+    },
+    {
+      "item": "adtsdstechmod:insulatormold"
+    },
+    {
+      "item": "adtsdstechmod:ingotsilicon"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:siliconmicrochipbasic",
+    "count": 8
+  }
+}

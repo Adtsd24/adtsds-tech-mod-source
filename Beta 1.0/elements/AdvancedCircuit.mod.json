@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Capacitor10MegaFarad"
+      },
+      {
+        "value": "CUSTOM:ItemSiliconDiode"
+      },
+      {
+        "value": "CUSTOM:Resistor100Ohm"
+      },
+      {
+        "value": "CUSTOM:Capacitor10MegaFarad"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipWiredBasic"
+      },
+      {
+        "value": "CUSTOM:ItemSiliconDiode"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipWiredBasic"
+      },
+      {
+        "value": "CUSTOM:CircuitBoardPTFE"
+      },
+      {
+        "value": "CUSTOM:Capacitor10MegaFarad"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CircuitBoardAdvanced"
+    },
+    "name": "advancedcircuit",
+    "namespace": "mod"
+  }
+}

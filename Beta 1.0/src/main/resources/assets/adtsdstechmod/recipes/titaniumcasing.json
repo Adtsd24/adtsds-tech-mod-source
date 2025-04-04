@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:screwtitanium"
+    },
+    "1": {
+      "item": "adtsdstechmod:platetitanium"
+    },
+    "2": {
+      "item": "adtsdstechmod:screwtitanium"
+    },
+    "3": {
+      "item": "adtsdstechmod:platetitanium"
+    },
+    "4": {
+      "item": "adtsdstechmod:toolwrench"
+    },
+    "5": {
+      "item": "adtsdstechmod:platetitanium"
+    },
+    "6": {
+      "item": "adtsdstechmod:screwtitanium"
+    },
+    "7": {
+      "item": "adtsdstechmod:platetitanium"
+    },
+    "8": {
+      "item": "adtsdstechmod:screwtitanium"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:titaniummachinecasing",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:basicmacerator"
+    },
+    "1": {
+      "item": "adtsdstechmod:lepidoliteore"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:dustlepidolite",
+    "count": 8
+  }
+}

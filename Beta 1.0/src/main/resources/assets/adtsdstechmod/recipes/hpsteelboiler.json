@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:platecopperdense"
+    },
+    "2": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "4": {
+      "item": "adtsdstechmod:coalcoke"
+    },
+    "5": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "6": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "7": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "8": {
+      "item": "adtsdstechmod:platesteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:steelboilerhp",
+    "count": 1
+  }
+}

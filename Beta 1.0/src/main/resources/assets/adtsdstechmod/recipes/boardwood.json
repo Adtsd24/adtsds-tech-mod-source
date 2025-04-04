@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:wooden_slab",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:itemboardwood",
+    "count": 1
+  }
+}

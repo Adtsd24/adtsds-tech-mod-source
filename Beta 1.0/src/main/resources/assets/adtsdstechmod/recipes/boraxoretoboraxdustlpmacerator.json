@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:boraxore"
+    },
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:boraxdust",
+    "count": 12
+  }
+}

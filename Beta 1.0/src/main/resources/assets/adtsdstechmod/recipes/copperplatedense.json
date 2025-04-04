@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "1": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "2": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "3": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "4": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "5": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "6": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "7": {
+      "item": "adtsdstechmod:platecopper"
+    },
+    "8": {
+      "item": "adtsdstechmod:platecopper"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:platecopperdense",
+    "count": 1
+  }
+}

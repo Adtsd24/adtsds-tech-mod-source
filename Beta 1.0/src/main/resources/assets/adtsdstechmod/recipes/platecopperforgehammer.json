@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lpsteamforgehammer"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    },
+    {
+      "item": "adtsdstechmod:copperingot"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:platecopper",
+    "count": 2
+  }
+}

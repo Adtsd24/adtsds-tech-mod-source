@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WroughtIronPlate"
+      },
+      {
+        "value": "CUSTOM:WroughtIronPlate"
+      },
+      {
+        "value": "CUSTOM:WroughtIronPlate"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CokeOven"
+    },
+    "name": "makeacokeoven",
+    "namespace": "mod"
+  }
+}

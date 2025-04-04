@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "1": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "3": {
+      "item": "minecraft:piston"
+    },
+    "4": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "5": {
+      "item": "minecraft:piston"
+    },
+    "6": {
+      "item": "adtsdstechmod:doublehydrogencell"
+    },
+    "7": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "8": {
+      "item": "adtsdstechmod:doublehydrogencell"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:hydrogengenerator",
+    "count": 1
+  }
+}

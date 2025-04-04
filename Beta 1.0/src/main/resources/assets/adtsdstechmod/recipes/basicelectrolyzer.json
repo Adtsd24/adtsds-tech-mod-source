@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "1": {
+      "item": "adtsdstechmod:pipecopper"
+    },
+    "2": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "3": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "4": {
+      "item": "adtsdstechmod:steelmachinecasing"
+    },
+    "5": {
+      "item": "adtsdstechmod:goldcoil"
+    },
+    "6": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:steelboilerhp"
+    },
+    "8": {
+      "item": "adtsdstechmod:platesteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:electrolyzerlv",
+    "count": 1
+  }
+}

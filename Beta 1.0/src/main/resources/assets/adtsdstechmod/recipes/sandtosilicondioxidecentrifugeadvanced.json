@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedcentrifuge"
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustsilicondioxide",
+    "count": 1
+  }
+}

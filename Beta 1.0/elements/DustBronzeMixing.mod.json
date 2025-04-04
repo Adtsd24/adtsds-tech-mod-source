@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DustCopper"
+      },
+      {
+        "value": "CUSTOM:DustCopper"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DustCopper"
+      },
+      {
+        "value": "CUSTOM:DustTin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DustBronze"
+    },
+    "name": "dustbronzemixing",
+    "namespace": "mod"
+  }
+}

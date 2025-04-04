@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:oreprocessoradvanced"
+    },
+    {
+      "item": "adtsdstechmod:nitricacidcell"
+    },
+    {
+      "item": "adtsdstechmod:hydrogencell"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "adtsdstechmod:saltore"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:saltdust",
+    "count": 24
+  }
+}

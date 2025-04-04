@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlateCopper"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:PlateCopper"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "CUSTOM:PipeCopper"
+      },
+      {
+        "value": "CUSTOM:PlateBronze"
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": "CUSTOM:PlateBronze"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LPSteamBoiler"
+    },
+    "name": "steamboilerlp",
+    "namespace": "mod"
+  }
+}

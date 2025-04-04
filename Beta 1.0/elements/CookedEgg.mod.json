@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "food_egg_cooked",
+    "customModelName": "Normal",
+    "name": "Cooked Egg",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 5.0,
+    "eatingSpeed": 45,
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

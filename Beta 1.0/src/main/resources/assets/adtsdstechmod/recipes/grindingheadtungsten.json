@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "1": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "2": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "3": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "6": {
+      "item": "adtsdstechmod:plateinvar"
+    },
+    "7": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "8": {
+      "item": "adtsdstechmod:plateinvar"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:tungstengrindinghead",
+    "count": 1
+  }
+}

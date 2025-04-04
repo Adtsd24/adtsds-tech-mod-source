@@ -1,0 +1,42 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    "1": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:boltsteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:platesteel"
+    },
+    "8": {
+      "item": "adtsdstechmod:wirecutter"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:emptycell",
+    "count": 4
+  }
+}

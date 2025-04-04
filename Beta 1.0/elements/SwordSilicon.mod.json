@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipBasic"
+      },
+      {
+        "value": "CUSTOM:BoltSilicon"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipBasic"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipBasic"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:SiliconMicrochipBasic"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EasterEggSiliconSword"
+    },
+    "name": "swordsilicon",
+    "namespace": "mod"
+  }
+}

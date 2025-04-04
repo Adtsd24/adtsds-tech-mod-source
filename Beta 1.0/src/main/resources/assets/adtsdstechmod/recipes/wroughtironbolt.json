@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:rodwroughtiron"
+    },
+    {
+      "item": "adtsdstechmod:toolsaw"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:boltwroughtiron",
+    "count": 1
+  }
+}

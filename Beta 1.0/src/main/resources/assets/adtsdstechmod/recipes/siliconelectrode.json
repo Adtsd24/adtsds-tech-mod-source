@@ -1,0 +1,19 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:toolsaw"
+    },
+    "1": {
+      "item": "adtsdstechmod:ingotsilicon"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:boltsilicon",
+    "count": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "adtsdstechmod:emptycell"
+    },
+    "3": {
+      "item": "adtsdstechmod:integratedcircuit"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:oxygencell",
+    "count": 1
+  }
+}

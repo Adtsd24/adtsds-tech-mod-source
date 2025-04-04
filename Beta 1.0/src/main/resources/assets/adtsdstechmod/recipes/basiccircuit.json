@@ -1,0 +1,30 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CVR",
+    "COC",
+    "VBV"
+  ],
+  "key": {
+    "C": {
+      "item": "adtsdstechmod:capacitor1000microfarad"
+    },
+    "V": {
+      "item": "adtsdstechmod:vacuumtube"
+    },
+    "R": {
+      "item": "adtsdstechmod:resistor1kohm"
+    },
+    "O": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "B": {
+      "item": "adtsdstechmod:itemcircuitboardwood"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:circuitboardbasic",
+    "count": 1
+  }
+}

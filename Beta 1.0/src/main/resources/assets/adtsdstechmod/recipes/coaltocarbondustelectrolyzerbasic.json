@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustcarbon",
+    "count": 1
+  }
+}

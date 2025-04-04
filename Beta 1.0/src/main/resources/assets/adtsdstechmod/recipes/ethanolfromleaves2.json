@@ -1,0 +1,31 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:distillery"
+    },
+    {
+      "item": "minecraft:leaves2",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:leaves2",
+      "data": 32767
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    },
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    },
+    {
+      "item": "minecraft:leaves2",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:ethanolcell",
+    "count": 5
+  }
+}

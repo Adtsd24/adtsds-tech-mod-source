@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScrewSteel"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:ScrewSteel"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:ToolWrench"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:ScrewSteel"
+      },
+      {
+        "value": "CUSTOM:PlateSteel"
+      },
+      {
+        "value": "CUSTOM:ScrewSteel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SteelMachineCasing"
+    },
+    "name": "machinecasingsteel",
+    "namespace": "mod"
+  }
+}

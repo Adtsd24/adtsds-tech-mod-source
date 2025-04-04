@@ -1,0 +1,13 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:platecopperdense"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:platecopper",
+    "count": 9
+  }
+}

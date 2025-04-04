@@ -1,0 +1,32 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    "1": {
+      "item": "adtsdstechmod:dustlepidolite"
+    },
+    "2": {
+      "item": "adtsdstechmod:dustlepidolite"
+    },
+    "3": {
+      "item": "adtsdstechmod:dustlepidolite"
+    },
+    "4": {
+      "item": "adtsdstechmod:emptycell"
+    },
+    "5": {
+      "item": "adtsdstechmod:emptycell"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:fluorinecell",
+    "count": 2
+  }
+}

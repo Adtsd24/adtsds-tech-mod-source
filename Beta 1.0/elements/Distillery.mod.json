@@ -1,0 +1,28 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "distillery",
+    "customModelName": "Normal",
+    "name": "Distillery",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "It is a distillery, use it for one of such purposes:",
+      "- getting Salt from Water",
+      "- things like Ethanol and other chemicals I might implement"
+    ],
+    "hasGlow": false
+  }
+}

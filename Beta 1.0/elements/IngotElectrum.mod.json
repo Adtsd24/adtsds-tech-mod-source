@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "ingot_electrum",
+    "customModelName": "Normal",
+    "name": "Electrum Ingot",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "An electrum ingot. This is an alloy of Silver and Gold, which is more conductive than Gold, while also being more sturdy because of the harder Silver."
+    ],
+    "hasGlow": false
+  }
+}

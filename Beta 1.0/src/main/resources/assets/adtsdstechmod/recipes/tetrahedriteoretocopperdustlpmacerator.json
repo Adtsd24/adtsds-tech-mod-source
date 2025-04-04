@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:tetrahedriteore"
+    },
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustcopper",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    {
+      "item": "adtsdstechmod:dustlepidolite"
+    },
+    {
+      "item": "adtsdstechmod:dustlepidolite"
+    },
+    {
+      "item": "adtsdstechmod:dustlepidolite"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustmica",
+    "count": 2
+  }
+}

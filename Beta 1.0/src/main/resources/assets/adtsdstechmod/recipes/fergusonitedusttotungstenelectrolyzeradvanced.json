@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedelectrolyzer"
+    },
+    {
+      "item": "adtsdstechmod:dustfergusonite"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dusttungsten",
+    "count": 5
+  }
+}

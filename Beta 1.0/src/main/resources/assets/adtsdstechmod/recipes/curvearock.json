@@ -1,0 +1,17 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone",
+      "data": 32767
+    },
+    {
+      "item": "adtsdstechmod:toolfile"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:rock",
+    "count": 1
+  }
+}

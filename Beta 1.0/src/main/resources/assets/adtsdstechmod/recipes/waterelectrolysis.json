@@ -1,0 +1,25 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:electrolyzerlv"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:hydrogencell",
+    "count": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Capacitor1000MicroFarat"
+      },
+      {
+        "value": "CUSTOM:VacuumTube"
+      },
+      {
+        "value": "CUSTOM:Resistor1kOhm"
+      },
+      {
+        "value": "CUSTOM:Capacitor1000MicroFarat"
+      },
+      {
+        "value": "CUSTOM:CopperCoil"
+      },
+      {
+        "value": "CUSTOM:Capacitor1000MicroFarat"
+      },
+      {
+        "value": "CUSTOM:VacuumTube"
+      },
+      {
+        "value": "CUSTOM:ItemCircuitBoardWood"
+      },
+      {
+        "value": "CUSTOM:VacuumTube"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CircuitBoardBasic"
+    },
+    "name": "basiccircuit",
+    "namespace": "mod"
+  }
+}

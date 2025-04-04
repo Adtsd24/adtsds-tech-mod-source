@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "steam_forgehammer",
+    "customModelName": "Normal",
+    "name": "Low Pressure Steam Forge Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A steam forge hammer. It seems like its is more efficent for making plates! Finally, something better than a 2:1 plate ratio, the 3:2 plate ratio!"
+    ],
+    "hasGlow": false
+  }
+}

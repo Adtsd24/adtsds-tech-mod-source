@@ -1,0 +1,21 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:advancedcentrifuge"
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustfergusonite",
+    "count": 1
+  }
+}

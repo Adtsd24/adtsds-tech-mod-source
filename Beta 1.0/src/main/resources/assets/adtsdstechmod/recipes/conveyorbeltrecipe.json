@@ -1,0 +1,45 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:rodsteel"
+    },
+    "1": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "3": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "5": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "7": {
+      "item": "adtsdstechmod:platetungsten"
+    },
+    "8": {
+      "item": "adtsdstechmod:rodsteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:conveyorbelt",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:toolsaw"
+    },
+    {
+      "item": "adtsdstechmod:rodaluminium"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:boltaluminium",
+    "count": 2
+  }
+}

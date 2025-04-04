@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "advanced_centrifuge",
+    "customModelName": "Normal",
+    "name": "Advanced Centrifuge",
+    "creativeTab": {
+      "value": "CUSTOM:TechMod"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Surprise surprise, the first Advanced machine is a Centrifuge! Strangeness includes:",
+      "No Basic Centrifuge",
+      "Somehow first Advanced machine for no reason",
+      "This has the same wires as the Basic electrolyzer"
+    ],
+    "hasGlow": false
+  }
+}

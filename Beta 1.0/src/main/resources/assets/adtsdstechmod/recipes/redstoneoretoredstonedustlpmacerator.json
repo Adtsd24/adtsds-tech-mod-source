@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_ore"
+    },
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 8
+  }
+}

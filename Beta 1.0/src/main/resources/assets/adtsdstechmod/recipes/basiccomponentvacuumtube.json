@@ -1,0 +1,36 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "4": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    },
+    "6": {
+      "item": "adtsdstechmod:coppercoil"
+    },
+    "7": {
+      "item": "minecraft:glass_pane"
+    },
+    "8": {
+      "item": "adtsdstechmod:coppercoil"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:vacuumtube",
+    "count": 2
+  }
+}

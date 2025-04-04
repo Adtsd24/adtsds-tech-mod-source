@@ -1,0 +1,39 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "2": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "3": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "4": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "5": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "6": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "7": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    },
+    "8": {
+      "item": "adtsdstechmod:ingottungstensteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:tungstensteelarmorbody",
+    "count": 1
+  }
+}

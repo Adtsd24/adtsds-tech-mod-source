@@ -1,0 +1,22 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:saltdust"
+    },
+    {
+      "item": "adtsdstechmod:distillery"
+    },
+    {
+      "item": "adtsdstechmod:saltdust"
+    },
+    {
+      "item": "adtsdstechmod:emptycell"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:chlorinecell",
+    "count": 1
+  }
+}

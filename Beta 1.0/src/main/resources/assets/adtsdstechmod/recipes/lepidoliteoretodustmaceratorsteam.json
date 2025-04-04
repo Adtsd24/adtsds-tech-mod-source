@@ -1,0 +1,16 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adtsdstechmod:lepidoliteore"
+    },
+    {
+      "item": "adtsdstechmod:lpsteammacerator"
+    }
+  ],
+  "result": {
+    "item": "adtsdstechmod:dustlepidolite",
+    "count": 3
+  }
+}

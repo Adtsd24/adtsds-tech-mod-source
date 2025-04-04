@@ -1,0 +1,33 @@
+{
+  "group": "adtsdstechmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "1": {
+      "item": "adtsdstechmod:toolhammer"
+    },
+    "2": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "4": {
+      "item": "adtsdstechmod:wroughtironplate"
+    },
+    "6": {
+      "item": "adtsdstechmod:rodsteel"
+    },
+    "8": {
+      "item": "adtsdstechmod:rodsteel"
+    }
+  },
+  "result": {
+    "item": "adtsdstechmod:wirecutter",
+    "count": 1
+  }
+}
